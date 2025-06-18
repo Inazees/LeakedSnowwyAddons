@@ -1,7 +1,7 @@
 # LeakedSnowwyAddons
 Leaked CTJS module to help with F7/M7 in hypixel skyblock
 
-Features such as;
+**Features such as;**
 
 Dragon helper, 
 
